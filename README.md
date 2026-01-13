@@ -174,6 +174,4 @@ docker-compose down
 - **Type Safety** - TypeScript strict mode
 - **Form Validation** - Zod schemas
 
-## Licença
 
-MIT
