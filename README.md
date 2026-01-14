@@ -5,23 +5,10 @@ Sistema completo de controle financeiro pessoal desenvolvido com **Clean Archite
 ## Tecnologias
 
 ### Backend
-- **Python 3.11+**
 - **FastAPI** - Framework web moderno e de alta performance
-- **SQLAlchemy 2.0** - ORM assíncrono
-- **Pydantic v2** - Validação de dados
-- **JWT** - Autenticação stateless
-- **SQLite/PostgreSQL** - Banco de dados
 
 ### Frontend
 - **Next.js 14** - Framework React com App Router
-- **React 18** - Biblioteca de UI
-- **TypeScript** - Tipagem estática
-- **TailwindCSS** - Estilização
-- **ShadCN UI** - Componentes de interface
-- **React Query** - Gerenciamento de estado assíncrono
-- **Zustand** - Gerenciamento de estado global
-- **React Hook Form + Zod** - Formulários e validação
-- **Recharts** - Gráficos
 
 ## Arquitetura
 
@@ -75,11 +62,6 @@ frontend/
 - **Gráficos** - Visualização de dados
 
 ## Como Executar
-
-### Pré-requisitos
-- Python 3.11+
-- Node.js 18+
-- Docker (opcional)
 
 ### Backend
 
