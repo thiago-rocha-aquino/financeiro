@@ -146,14 +146,9 @@ docker-compose down
 
 ### Backend
 - **Clean Architecture** - Separação de responsabilidades
-- **Repository Pattern** - Abstração de acesso a dados
-- **Dependency Injection** - Injeção de dependências via FastAPI
-- **DTOs** - Transferência de dados entre camadas
 
 ### Frontend
 - **Component Composition** - Componentes reutilizáveis
 - **Custom Hooks** - Lógica compartilhada
-- **Type Safety** - TypeScript strict mode
-- **Form Validation** - Zod schemas
 
 
