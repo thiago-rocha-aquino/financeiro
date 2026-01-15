@@ -8,7 +8,7 @@ Sistema completo de controle financeiro pessoal desenvolvido com **Clean Archite
 - **FastAPI** - Framework web moderno e de alta performance
 
 ### Frontend
-- **Next.js 14** - Framework React com App Router
+- **Next.js ** - Framework React com App Router
 
 ## Arquitetura
 
