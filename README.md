@@ -8,7 +8,7 @@ Sistema completo de controle financeiro pessoal desenvolvido com **Clean Archite
 - **FastAPI** 
 
 ### Frontend
-- **Next.js **
+- **Next.js**
 
 ## Arquitetura
 
